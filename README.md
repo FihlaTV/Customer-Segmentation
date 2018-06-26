@@ -1,4 +1,4 @@
-# Customer-Segment-Identification
+﻿# Customer Segment Identification
 Unsupervied learning algorithms have been used to classify various customers of a company into clusters.
 
 ## About the dataset
